@@ -1,6 +1,7 @@
 **This project is recommended to represent in leture class of week 16.**
-final grade: `99.5` / `100`
-bonus: `1` for submit in week 15, `0.8` for presentation in leture class.
+
+- final grade: `99.5` / `100`
+- bonus: `1` for submit in week 15, `0.8` for presentation in leture class.
 
 # CS209A-Spring Java 2
 
